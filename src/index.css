@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: #09192F;
+  color: white;
+}
+nav{
+  background-color: #09192F;
+  border-bottom: 1px solid rgb(52, 52, 52);
+}
+
+.container{
+  background-color: #172A46;
+  width: 90vw;
+}
+
+input{
+  background-color: #2346768d;
+}
+
+.todo{
+  background-color: #2346768d;
+}
